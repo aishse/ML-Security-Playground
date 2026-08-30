@@ -1,0 +1,2 @@
+image,output,timestamp
+.gradio/flagged/image/d11d464cf0bf9d3bc140/tabby.png,"{""label"": ""tabby"", ""confidences"": [{""label"": ""tabby"", ""confidence"": 0.3787328004837036}, {""label"": ""tiger cat"", ""confidence"": 0.09676982462406158}, {""label"": ""Egyptian cat"", ""confidence"": 0.0491243451833725}, {""label"": ""lynx"", ""confidence"": 0.0033377278596162796}, {""label"": ""tiger"", ""confidence"": 0.0031719934195280075}]}",2026-08-29 15:36:20.435111
